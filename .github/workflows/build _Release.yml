@@ -1,4 +1,4 @@
-- name: Android Builder
-
-  uses: b4s36t4/Android-Action@0.0.1
-  on: push
+---
+name: Android Builder
+on: push
+uses: b4s36t4/Android-Action@0.0.1
